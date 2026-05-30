@@ -3,7 +3,8 @@
 This is the codebase for Exercise 1 of the Advanced NLP HUJI course (67664), fine tuning pretrained models to perform sequence classification (paraphrase detection) on the MRPC dataset from the GLUE benchmark.
 
 # Install
-``` pip install -r requirements.txt ```
+```bash
+pip install -r requirements.txt
 
 # Fine-Tune and Predict on Test Set
 Run:
