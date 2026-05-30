@@ -4,7 +4,7 @@ This is the codebase for Exercise 1 of the Advanced NLP HUJI course (67664), fin
 
 # Install
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt```
 
 # Fine-Tune and Predict on Test Set
 Run:
