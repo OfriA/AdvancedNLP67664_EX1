@@ -15,4 +15,4 @@ Run:
 python ex1.py --do_train --num_train_epochs <number of training epochs> --batch_size <batch size> --lr <learning rate>
 ```
 
-*If you use ``` --do_predict ```, a prediction.txt file will be generated, containing prediction results for all test samples.*
+If you use ``` --do_predict ```, a *prediction.txt* file will be generated, containing prediction results for all test samples.
